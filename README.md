@@ -15,6 +15,8 @@ Alguns projetos já estão disponiveis no repositório e iniciando os estudos em
 Estrovertida e esforçada, sempre em busca de novos conhecimentos.
 
 <a href="https://www.linkedin.com/in/pinho-thais/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> </a>
+<br>
+<br>
 [![Thais_stats](https://github-readme-stats.vercel.app/api?username=thaisalna)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisalna)](https://github.com/anuraghazra/github-readme-stats)
 
